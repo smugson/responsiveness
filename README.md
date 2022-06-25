@@ -1,3 +1,6 @@
+Here is the page:  https://smugson.github.io/responsiveness/
+
+
 This is a practical task on media queries and responsiveness of a web page. Only work on sreens with maximum width 0f 375px.
 
 **Build a single-page responsive registration form using the design.
